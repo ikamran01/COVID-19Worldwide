@@ -1,0 +1,29 @@
+*{
+    font-family: "archia";
+  }
+  
+  
+  
+  .navbar{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    height: 4rem;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    justify-content: center;
+    
+  
+  
+  }
+  .navbar a{
+    color: #6c757d;
+    text-decoration: none;
+   
+  
+  }
+  .navbar span{
+    color: #4c75f2;
+  }

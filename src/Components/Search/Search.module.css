@@ -1,0 +1,37 @@
+
+
+.Search{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px 0;
+  width: 100%;
+}
+
+
+
+p{
+  color: #6c757d;
+  font-size: 1.25rem;
+  font-weight: 100;
+}
+
+.Search_dropdwon{
+  width: 650px;
+}
+
+.InfoBox{
+  display: flex;
+  margin: 50px 0;
+  justify-content: space-around;
+  width: 100vh;
+
+}
+.ctable{
+  width: 80%;
+  
+}
+h3{
+  text-align: center;
+}
